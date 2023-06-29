@@ -1,0 +1,7 @@
+print("hello")
+person=input("Enter your age")
+print(person)
+person2=input("Enter your hight")
+print(person2)
+person3=input("Enter your wight")
+print(person3)
